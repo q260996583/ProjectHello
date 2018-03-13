@@ -1,4 +1,6 @@
 
 public class Branches {
-  public static void main(String[] args){}
+  public static void main(String[] args){
+	sysout
+	}
 }
