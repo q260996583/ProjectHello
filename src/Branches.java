@@ -1,4 +1,4 @@
 
 public class Branches {
-  12121212
+  public static void main(String[] args){}
 }
